@@ -4,7 +4,7 @@
 # If you use this code in your research, please cite it as follows:
 # ---------------------------------------------------------------------------------------------
 # Saâdaoui, F., Herch, H., & Rabbouch, H. (2024). Multiresolution Granger causality testing 
-# grounded in Variational Mode Decomposition: A Python library. Submitted to the Journal of 
+# with variational mode decomposition: A Python software. Submitted to the Journal of 
 # Applied Statistics.
 # ---------------------------------------------------------------------------------------------
 #
